@@ -4,5 +4,5 @@ A simple algorithm that gatherers epidemiological statistics and post it on Tele
 
 # Useful Links
 
-https://core.telegram.org/bots
-https://telegram.org/faq_channels
+* https://core.telegram.org/bots
+* https://telegram.org/faq_channels
